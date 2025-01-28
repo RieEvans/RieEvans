@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** with a lov
 
 ## 💬 Let’s Talk  
 - 💬 Ask me about **React JS, Webix JS, Ruby on Rails, Node.js**, or **optimizing SQL queries**.  
-- 📫 Reach me at: **riejan.evangelista@gmail.com**  
-- 🌐 Connect on [LinkedIn](https://linkedin.com/in/riejan-evangelista).  
+- 📫 Reach me at: **riejanevangelista1620@gmail.com**  
+- 🌐 Connect on [LinkedIn](https://www.linkedin.com/in/riejan-evangelista-b111b0247/).  
 
 ---
 
